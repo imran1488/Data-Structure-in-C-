@@ -1,0 +1,30 @@
+                                     Introduction to Data Structures
+
+A Data Structure is a way to store and organize data in a computer, so that it can be used efficiently.
+
+We talk about data Structures as :
+
+1).Mathematical / logical models
+            or 
+    Abstract data types
+
+Example of ADT :-
+    
+    List
+-store a given number of elements of any type.
+-read elements by position.
+-modify element at a position.
+
+2).Implementation
+
+Example:
+  Arrays - Concrete Implementation
+  LinkedList
+
+Abstract Data Types:- Define data and operations but no implementation : Arrays, LinkedList, Trees, Graph
+
+We will study the following :
+1). Logical view
+2). operations
+3). Cost of operations
+4). Impmlementation
